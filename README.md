@@ -1,5 +1,9 @@
 ### Alexandru Brateanu
 
+Interested in Image Processing, Computer Vision.
+
+Second-year CS Undergraduate at University of Manchester.
+
 <!--
 **albrateanu/albrateanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
