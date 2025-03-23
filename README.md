@@ -2,7 +2,7 @@
 
 Interested in Image Processing, Computer Vision.
 
-Second-year CS Undergraduate at University of Manchester.
+Check out [my website](https://albrateanu.github.io/) for publications and other contact details.
 
 <!--
 **albrateanu/albrateanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
