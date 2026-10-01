@@ -1,20 +1,11 @@
-### Alexandru Brateanu
+### About
 
-Interested in Image Processing, Computer Vision.
+I am **Alexandru Brateanu**, a first-year Ph.D. researcher in **World Modelling and Physical AI** at the [University of Manchester](https://www.manchester.ac.uk/), supervised by [Dr. Tingting Mu](https://personalpages.manchester.ac.uk/staff/tingting.mu/Site/About_Me.html) and [Prof. Timothy Cootes](https://research.manchester.ac.uk/en/persons/timothy.f.cootes).
 
-Check out [my website](https://albrateanu.github.io/) for publications and other contact details.
+I received my B.Sc. in Computer Science from the [University of Manchester](https://www.manchester.ac.uk/) in 2026.
 
-<!--
-**albrateanu/albrateanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since 2024, I have also been working with [Prof. Cosmin Ancuti](https://www.meo.etc.upt.ro/2-uncategorised/2105-cosmin-ancuti), [Prof. Codruta O. Ancuti](https://www.meo.etc.upt.ro/2-uncategorised/2106-codruta-orniana-ancuti), and [Dr. Ciprian Orhei](https://ro.linkedin.com/in/ciprian-constantin-orhei-68785218) on deep learning methods for **image restoration and enhancement**.
 
-Here are some ideas to get you started:
+**Research Interests**: World Modelling, Physical AI, Physically Grounded Representation Learning, Computer Vision, Image Restoration and Enhancement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am happy to discuss research ideas and potential collaborations.
